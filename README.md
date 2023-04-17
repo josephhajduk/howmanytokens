@@ -1,6 +1,6 @@
 # HowManyTokens
 
-This Rust program provides a simple HTTP API to tokenize text using Hugging Face's tokenizer. It is primarily intended for use in languages where there aren't any nice or fast tokenizers available. The API allows you to get the token length and trim strings to a specified token length.
+This Rust program provides a simple HTTP API to tokenize text using Hugging Face's tokenizer. It is primarily intended for use from languages where there aren't any nice or fast tokenizers available. The API allows you to get the token length and trim strings to a specified token length.
 
 ## Prerequisites
 
